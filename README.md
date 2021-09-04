@@ -1,30 +1,28 @@
-# EZMath
+# SSMath (Super Simple Math)
 
-EZMath is an [`npm`](https://www.npmjs.com/) package to easily do math stuff.
+SSMath is an [`npm`](https://www.npmjs.com/) package to easily do math stuff.
 
 # Getting Started
 
-First, we need to install EZMath so, open your Project in Terminal (macOS + GNU/Linux) or Command Prompt (Windows) and type in `npm i ezmath --save`.
+First, we need to install SSMath so, open your Project in Terminal (macOS + GNU/Linux) or Command Prompt (Windows) and type in `npm i ssmath --save`.
 
-Now, in your JS file, you can define EZMath!
+Now, in your JS file, you can define SSMath!
 
 ```js
-const ezmath = require("ezmath")
+const ssmath = require("ssmath")
 ```
 
-If you want to use EZMath faster, and without the use of `ezmath.[function]`, you can specify a certain function you need.
+If you want to use SSMath faster, and without the use of `ssmath.[function]`, you can specify a certain function you need.
 
 ```js
-const { Pi } = require("ezmath")
+const { Pi } = require("ssmath")
 ```
 
 # Functions
 
-Here are the functions you can use with EZMath!
-
-`ezmath.Pi` - Returns Math.PI, but in EZMath form!
+`ssmath.Pi` - Returns Math.PI, but in ssmath form!
 
 # Upcoming Functions
 
-`ezmath.Random(min, max)` - Returns a random number between min and max!
+`ssmath.Random(min, max)` - Returns a random number between min and max!
 A couple more functions that will be announced soon...

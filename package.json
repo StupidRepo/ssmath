@@ -1,0 +1,25 @@
+{
+  "name": "ssmath",
+  "version": "1.0.0",
+  "description": "SSMath helps you with math equasions!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StupidRepo/ssmath.git"
+  },
+  "keywords": [
+    "math",
+    "help",
+    "helpful",
+    "npm"
+  ],
+  "author": "Bradlee Barnes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StupidRepo/ssmath/issues"
+  },
+  "homepage": "https://github.com/StupidRepo/ssmath#readme"
+}
